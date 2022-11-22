@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Web3 and Full Stack
+- 🌱 I’m currently learning Web3 and Full-Stack-Development
 
 
 <!---
